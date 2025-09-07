@@ -142,9 +142,7 @@ const productsData = {
                     icon: "fas fa-book",
                     description: "Koleksi e-book digital dengan berbagai topik menarik, mulai dari bisnis, programming, hingga hobi.",
                     variants: [
-                        { name: "E-Book Bisnis", price: 15000 },
-                        { name: "E-Book Programming", price: 20000 },
-                        { name: "E-Book Random Pack", price: 10000 }
+                        { "name": "BELUM TERSEDIA ", "price": 0 }
                     ]
                 },
                 {
@@ -153,9 +151,8 @@ const productsData = {
                     icon: "fas fa-cogs",
                     description: "Software dan tools digital untuk menunjang pekerjaan maupun kebutuhan kreatif.",
                     variants: [
-                        { name: "Software Editing", price: 30000 },
-                        { name: "Software Utility", price: 25000 },
-                        { name: "Tools Random Pack", price: 20000 }
+                        { "name": "BELUM TERSEDIA ", "price": 0 },
+                        { "name": "BELUM TERSEDIA ", "price": 0 }
                     ]
                 },
                 {
@@ -173,9 +170,7 @@ const productsData = {
                     icon: "fas fa-file-alt",
                     description: "Template digital untuk desain, presentasi, website, dan media sosial.",
                     variants: [
-                        { name: "Template PowerPoint", price: 10000 },
-                        { name: "Template Website", price: 30000 },
-                        { name: "Template Sosmed", price: 30000 }
+                        { "name": "BELUM TERSEDIA ", "price": 0 }
                     ]
                 },
                 {
