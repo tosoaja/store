@@ -1,7 +1,7 @@
 const CONFIG = {
 nama: "Toso Store", // Nama Store
 profil: "https://files.catbox.moe/aix84a.jpg", // Url Profil
-banner: "https://files.catbox.moe/7gyczj.jpg", // Url Banner 
+banner: "https://files.catbox.moe/2m29d4.jpg", // Url Banner 
 tentang: "Toso market adalah toko online terpercaya yang telah melayani ribuan pelanggan sejak 2023. Kami menyediakan berbagai produk digital untuk kebutuhan sehari-hari dengan kualitas terbaik dan harga terjangkau.\n\nKomitmen kami adalah memberikan pengalaman berbelanja yang menyenangkan dengan pelayanan terbaik, produk original, dan garansi resmi untuk semua produk yang kami jual.",
 alamat: "Jawa barat, Indonesia",
 sosial_media: {
