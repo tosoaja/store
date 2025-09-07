@@ -90,7 +90,7 @@ const productsData = {
                     description: "Jasa pembuatan logo dengan berbagai gaya desain. Cocok untuk brand, usaha, atau komunitas.",
                     variants: [
                         { name: "Nokos indo", price: 6000 },
-                        { name: "Nokos Philadelphia", price: 8000 },
+                        { name: "Nokos Philipina", price: 8000 },
                         { name: "Nokos malay", price: 14000 },
                         { name: "Nokos mesir", price: 8000 },
                         { name: "Nokos brazil", price: 16000 },
