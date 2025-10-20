@@ -8,7 +8,7 @@ sosial_media: {
   email: "tosomodzx@gmail.com", // Email
   youtube: "Ga punya yutube", // YouTube Username 
   tiktok: "tosoaja_", // Tiktok Username 
-  whatsapp: "6283845989155", // WhatsApp Number 
+  whatsapp: "6282264380132", // WhatsApp Number 
   telegram: "tosoajaa" // Telegram Username
 },
 payment: {
@@ -161,11 +161,12 @@ const productsData = {
                 },
                 {
                     id: 13,
-                    name: "Lisensi & Key",
+                    name: "Sewa WhatsApp",
                     icon: "fas fa-key",
-                    description: "Produk lisensi resmi dan serial key untuk software pilihan.",
+                    description: "Sewakan WhatsApp kepada kami dan anda akan di bayar.",
                     variants: [
-                        { "name": "BELUM TERSEDIA ", "price": 0 }
+                        { "name": "Perchat 1 detik akan di bayar 150 perak perchat", "price": 0  }
+                        { "name": "Perchat 15 detik akan di bayar 50 perak perchat ", "price": 0  }
                     ]
                 },
                 {
