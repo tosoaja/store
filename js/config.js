@@ -165,8 +165,7 @@ const productsData = {
                     icon: "fas fa-key",
                     description: "Sewakan WhatsApp kepada kami dan anda akan di bayar.",
                     variants: [
-                        { "name": "Perchat 1 detik akan di bayar 150 perak perchat", "price": 0  }
-                        { "name": "Perchat 15 detik akan di bayar 50 perak perchat ", "price": 0  }
+                        { "name": "Perchat 1 detik akan di bayar 150 perak perchat", "price": 0 }
                     ]
                 },
                 {
