@@ -8,8 +8,8 @@ sosial_media: {
   email: "tosomodzx@gmail.com", // Email
   youtube: "Ga punya yutube", // YouTube Username 
   tiktok: "tosoaja_", // Tiktok Username 
-  whatsapp: "6282264380132", // WhatsApp Number 
-  telegram: "tosoajaa" // Telegram Username
+  whatsapp: "628139543817", // WhatsApp Number 
+  telegram: "tosostore" // Telegram Username
 },
 payment: {
   dana: "083845989155", // Payment Dana
@@ -18,8 +18,8 @@ payment: {
   qris: "Di wa aja" // Url Qris
 },
 telegram_api: {
-  bot: "7209014980:AAF_rnKCzGVaoA9bCbKs06gw49j6NuSrghk", // Token bot father
-  chatid: "7572969716" // ID telegram
+  bot: "8546182260:AAGvyi9LNaFeuVeF47YK2_T5xywN4v02o2U", // Token bot father
+  chatid: "8474319534" // ID telegram
 },
 }
 
@@ -123,9 +123,7 @@ const productsData = {
                     icon: "fas fa-laptop-code",
                     description: "Jasa desain UI/UX untuk website atau aplikasi dengan tampilan modern dan user-friendly.",
                     variants: [
-                        { name: "Landing Page", price: 75000 },
-                        { name: "Full Website", price: 250000 },
-                        { name: "Mobile App UI", price: 300000 }
+                        { "name": "BELUM TERSEDIA ", "price": 0 }
                     ]
                 },
                 {
